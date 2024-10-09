@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281065965931",
+    "project_id": "chayapplication-11616",
+    "storage_bucket": "chayapplication-11616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281065965931:android:87f0f9d35ce7212e15e42e",
+        "android_client_info": {
+          "package_name": "com.example.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAamCaGXPcyx2_ss_9KH8N2F_Qpq2zpxbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
